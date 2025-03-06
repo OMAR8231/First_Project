@@ -13,7 +13,7 @@ include './inc/db_close.php';
         <p class="lead fw-normal">باقي على فتح التسجيل</p>
         <h3 id="countdown"></h3>
     </div>
-
+    
     <div class="container">
         <h3>للدخول في السحب اتبع ما يلي</h3>
     <ul class="list-group list-group-flush">
